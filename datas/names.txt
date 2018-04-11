@@ -1,0 +1,49 @@
+
+960,Check the string,Minimize the error,Subsequence Counting,Full Binary Tree Queries,Alternating Tree,Pathwalks,Bandit Blues,Santa's Gift
+959,Mahmoud and Ehab and the even-odd game,Mahmoud and Ehab and the message,Mahmoud and Ehab and the wrong algorithm,Mahmoud and Ehab and another array construction task,Mahmoud and Ehab and the xor-MST,Mahmoud and Ehab and yet another xor task
+956,Mystical Mosaic,Three-level Laser,Riverside Curio,Contact ATC,Wardrobe,Minimal Subset Difference
+957,Tritonic Iridescence,Mystical Mosaic,Three-level Laser,Riverside Curio,Contact ATC
+955,Feed the cat,Not simply beatiful strings,Sad powers,Scissors,Icicles,Heaps
+950,Left-handers, Right-handers and Ambidexters,Intercepted Message,Zebras,A Leapfrog in the Array,Data Center Maintenance,Curfew
+949,Zebras,A Leapfrog in the Array,Data Center Maintenance,Curfew,Binary Cards,Astronomy
+948,Protect Sheep,Primal Sport,Producing Snow,Perfect Security,Picking Strings
+947,Primal Sport,Producing Snow,Perfect Security,Picking Strings,Perpetual Subtraction,Public Service
+940,Points on the line,Our Tanya is Crying Out Loud,Phone Numbers,Alena And The Heater,Cashback,Machine Learning
+939,Love Triangle,Hamster Farm,Convenient For Everybody,Love Rescue,Maximize!,Cutlet
+937,Olympiad,Vile Grasshoppers,Save Energy!,Sleepy Game,Lock Puzzle
+936,Save Energy!,Sleepy Game,Lock Puzzle,World of Tank,Iqea
+935,Fafa and his Company,Fafa and the Gates,Fifa and Fafa,Fafa and Ancient Alphabet,Fafa and Ancient Mathematics,Fafa and Array
+934,A Compatible Pair,A Prosperous Lot,A Twisty Movement,A Determined Cleanup,A Colourful Prospect
+933,A Twisty Movement,A Determined Cleanup,A Colourful Prospect,A Creative Cutout,A Preponderant Reunion
+931,Friends Meeting,World Cup,Laboratory Work,Peculiar apple-tree,Game with String,Teodor is not a liar!
+930,Peculiar apple-tree,Game with String,Teodor is not a liar!,Game with Tokens,Coins Exhibition
+922,Cloning Toys,Magic Forest,Cave Painting,Robot Vacuum Cleaner,Birds,Divisibility
+919,Supermarket,Perfect Number,Seat Arrangements,Substring,Congruence Equation,A Game With Numbers
+918,Eleven,Radio Station,The Monster,MADMAX,Pollywog
+917,The Monster,MADMAX,Pollywog,Stranger Trees,Upside Down
+916,Jamie and Alarm Snooze,Jamie and Binary Sequence (changed after round),Jamie and Interesting Graph,Jamie and To-do List,Jamie and Tree
+913,Modular Exponentiation,Christmas Spruce,Party Lemonade,Too Easy Problems,Logical Expression,Strongly Connected Tournament,Power Substring,Don't Exceed
+912,Tricky Alchemy,New Year's Eve,Perun, Ult!,Fishes,Prime Gift
+909,Generate Login,Segments,Python Indentation,Colorful Points,Coprocessor,AND-permutations
+908,New Year and Counting Cards,New Year and Buggy Bot,New Year and Curling,New Year and Arbitrary Arrangement,New Year and Entity Enumeration,New Year and Rainbow Roads,New Year and Original Order,New Year and Boolean Bridges
+907,Masha and Bears,Tic-Tac-Toe,Shockers,Seating of Students,Party,Power Tower
+906,Shockers,Seating of Students,Party,Power Tower,Reverses
+902,Visiting a Friend,Coloring a Tree,Hashing Trees,GCD of Polynomials,Bipartite Segments
+901,Hashing Trees,GCD of Polynomials,Bipartite Segments,Weighting a Tree,Cyclic Cipher
+900,Find Extra One,Position in Fraction,Remove Extra One,Unusual Sequences,Maximum Questions
+899,Splitting in Teams,Months and Years,Dividing the numbers,Shovel Sale,Segments Removal,Letters Removing
+898,Rounding,Proper Nutrition,Phone Numbers,Alarm Clock,Squares and not squares,Restoring the Expression
+897,Scarborough Fair,Chtholly's request,Nephren gives a riddle,Ithea Plays With Chtholly,Willem, Chtholly and Seniorious
+896,Nephren gives a riddle,Ithea Plays With Chtholly,Willem, Chtholly and Seniorious,Nephren Runs a Cinema,Welcome home, Chtholly
+895,Pizza Separation,XK Segments,Square Subsets,String Mark,Eyes Closed
+894,QAQ,Ralph And His Magic Field,Marco and GCD Sequence,Ralph And His Tour in Binary Country,Ralph and Mushrooms
+892,Greed,Wrath,Pride,Gluttony,Envy
+891,Pride,Gluttony,Envy,Sloth,Lust
+890,ACM ICPC,Vlad and Cafes,Petya and Catacombs,Restoration of string,Maximum Element,Symmetric Projections
+889,Petya and Catacombs,Restoration of string,Maximum Element,Symmetric Projections,Mod Mod Mod
+887,Div. 64,Cubes for Masha,Solution for Cube,Ratings and Reality Shows,Little Brother,Row of Models
+879,Borya's Diagnosis,Table Tennis,Short Program,Teams Formation,Tournament
+878,Short Program,Teams Formation,Tournament,Magic Breeding,Numbers on the blackboard
+877,Alex and broken contest,Nikita and string,Slava and tanks,Olya and Energy Drinks,Danil and a Part-time Job,Ann and Books
+876,Trip For Meal,Divisiblity of Differences,Classroom Watch,Sorting the Coins,National Property,High Cry
+875,Classroom Watch,Sorting the Coins,National Property,High Cry,Delivery Club,Royal Questions

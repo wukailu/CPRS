@@ -1,4 +1,3 @@
-
 960,Check the string,Minimize the error,Subsequence Counting,Full Binary Tree Queries,Alternating Tree,Pathwalks,Bandit Blues,Santa's Gift
 959,Mahmoud and Ehab and the even-odd game,Mahmoud and Ehab and the message,Mahmoud and Ehab and the wrong algorithm,Mahmoud and Ehab and another array construction task,Mahmoud and Ehab and the xor-MST,Mahmoud and Ehab and yet another xor task
 956,Mystical Mosaic,Three-level Laser,Riverside Curio,Contact ATC,Wardrobe,Minimal Subset Difference

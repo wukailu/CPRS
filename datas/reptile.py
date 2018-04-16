@@ -80,4 +80,47 @@ with open(path+"rounds.txt","r") as f:
         if line == "":
             break
         saveRound(int(line))
-    
+
+tab ={}
+problems = {}
+usr = {}
+
+with open(path+"rounds.txt","r") as f:
+    names={}
+    with open(path+"names.txt","r") as fn:
+        while True:
+            line = fn.readline()
+            if line == "":
+                break
+            temp = line.strip().split(",")
+            names[int(temp[0])]=temp[1:]
+        cnt = 0
+        cnt2 = 0
+        for i in names:
+            for j in names[i]:
+                if not j in problems:
+                    problems[j]=cnt
+                    cnt += 1
+        for i in names:
+            data = scio.loadmat(path+str(i)+".mat")[str(i)]
+            for j in data:
+                j = np.array(j).tolist()
+                if not j[0] in usr:
+                    usr[j[0]] = cnt2
+                    tab[j[0]] = {}
+                    cnt2 += 1
+                for k in range(len(j[3:])):
+                    if j[3+k] != -1 :
+                        tab[j[0]][names[i][k]] = j[3+k]
+        hval = np.zeros((len(usr),len(problems)))
+        val = np.zeros((len(usr),len(problems)))
+        for i in tab:
+            for j in tab[i]:
+                hval[usr[i],problems[j]] = 1
+                val[usr[i],problems[j]] = tab[i][j]
+        dataFile = path+'CF.mat'
+        prb = np.asmatrix(np.array(list(problems.keys())))
+        user = np.asmatrix(np.array(list(usr.keys())))
+        scio.savemat(dataFile, {"has_value":hval, "value":val, "problems":prb, "users":user})
+
+        print("OK")

@@ -26,7 +26,7 @@ pY=[];
 pYval=[];
 eps = 0.3;% error allowed
 steps = 1;
-for lambda = 0:4:30
+for lambda = 0:1:4
 
     fprintf('\nTraining collaborative filtering with lambda = %d... \n',lambda);
 

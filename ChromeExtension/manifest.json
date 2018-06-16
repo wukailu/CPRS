@@ -1,0 +1,14 @@
+{
+  "name": "个性化CF题目推荐",
+  "description": "获取CF题目推荐",
+  "version": "1.0",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "default_title": "获取推荐",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
